@@ -27,6 +27,7 @@ Microsoft AdventureWorks Database Analysis and Visualization with PowerBI. It's 
 6. Data Visualization(Power BI)
 7. Dynamic KPIs
 8. Data Analytics
+9. MS Excel
 
 
  
