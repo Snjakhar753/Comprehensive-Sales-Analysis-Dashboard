@@ -1,4 +1,4 @@
-# Data Analyst –Internet  Sales Management
+# Internet Sales Management
 
 ## Dashboard Link: https://app.powerbi.com/groups/me/reports/50e5e93c-4b0e-4a44-a227-7aa23ca2f191/8860242b3a48af08b645?experience=power-bi
 
